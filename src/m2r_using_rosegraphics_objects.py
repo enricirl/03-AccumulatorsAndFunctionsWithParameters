@@ -6,7 +6,7 @@ This module uses ROSEGRAPHICS to demonstrate:
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
          Aaron Wilkin, their colleagues, and Rachael Enrici.
-"""  # Done: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ###############################################################################
 #
